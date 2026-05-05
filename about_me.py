@@ -1,7 +1,0 @@
-print("about me")
-print("name:sucharitha")
-print("age:21")
-print("college:svcet")
-print("course:3rd year CSE-DS")
-print{"hobbies"reading books,learning new languages")
-print("goal:To become a software engineer")
