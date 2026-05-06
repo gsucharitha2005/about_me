@@ -1,0 +1,7 @@
+print("about_me")
+print("name:sucharitha")
+print("course:3rd yerar b.tech")
+print("branch:CSE-DS")
+print("languages:telugu,english")
+print("hobbies:reading books,learning new languages")
+print("goal:to become a data engineer") 
